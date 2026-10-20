@@ -4,6 +4,10 @@
 
 A 2D maze adventure game built with JavaScript, p5.js, and p5.play as a team project for a programming practice course. Guide a ball through a dungeon with limited visibility, avoid monsters and radial bullet patterns, and reach the target area in the lower-right corner of the maze.
 
+## Gameplay Video
+
+[Watch the gameplay video on Bilibili](https://www.bilibili.com/video/BV1wfnw6PEiC/)
+
 ## Gameplay
 
 - **Maze exploration**: Navigate a 31 × 31 grid, with walls and map boundaries restricting movement.
